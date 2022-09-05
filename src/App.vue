@@ -22,7 +22,7 @@ import axios from 'axios'
 // ----
 
 // Title of the application
-const title = ref('Vue Weather App')
+const title = ref('Vue Weather App - 2022')
 
 // Message to display in the footer
 const footerMessage = ref('testdriven.io - 2022')
